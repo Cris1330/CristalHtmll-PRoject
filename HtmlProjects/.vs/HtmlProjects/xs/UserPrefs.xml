@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{517F4AE6-55BC-4DA4-952B-D3CB0B8DA664}|Default">
+  <MonoDevelop.Ide.ItemProperties.HtmlProjects PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HtmlProjects/Views/Home/ShopperProfile.cshtml">
+    <Files>
+      <File FileName="HtmlProjects/Views/Shared/_Layout.cshtml" Line="18" Column="81" IsPinned="True" />
+      <File FileName="HtmlProjects/Views/Shared/Index.cshtml" />
+      <File FileName="HtmlProjects/Views/Home/Register.cshtml" />
+      <File FileName="HtmlProjects/Controllers/HomeController.cs" />
+      <File FileName="HtmlProjects/Views/Home/ShopperProfile.cshtml" Line="85" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HtmlProjects" expanded="True">
+            <Node name="HtmlProjects" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="ShopperProfile.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

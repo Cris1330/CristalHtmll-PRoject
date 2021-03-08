@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8C1E0C35-0222-44CD-B49A-D4B5F66465FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Privacy.cshtml">
+    <Files>
+      <File FileName="Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/_TestPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Register.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HtmlProjects" expanded="True">
+            <Node name="HtmlProjects" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Privacy.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
